@@ -1,2 +1,1 @@
-# jieweiliangyao
-戒为良药
+# 戒为良药
